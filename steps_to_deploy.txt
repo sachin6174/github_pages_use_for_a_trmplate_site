@@ -1,0 +1,1 @@
+setting->pages-> select endpoint(root)->save prefrences
