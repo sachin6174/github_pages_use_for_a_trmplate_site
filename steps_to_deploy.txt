@@ -1,1 +1,7 @@
 setting->pages-> select endpoint(root)->save prefrences
+
+
+if custom domain linked
+	in custom domain pasted :
+		sachin6174.github.io 
+	after 10 sec site published
