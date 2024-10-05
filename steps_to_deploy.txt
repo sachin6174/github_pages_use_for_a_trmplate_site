@@ -24,3 +24,5 @@ https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pag
 https://www.youtube.com/watch?v=BT4WzyT2g8k
 
 https://www.youtube.com/watch?v=k3Y3c5WlAfc
+
+if u are facing any issue change something in a file and make it to deploy again
