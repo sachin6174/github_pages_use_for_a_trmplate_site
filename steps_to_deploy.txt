@@ -5,3 +5,22 @@ if custom domain linked
 	in custom domain pasted :
 		sachin6174.github.io 
 	after 10 sec site published
+
+
+
+# above method have been changed
+
+CMAKE file delete -> use github domain
+create CMAKE file put domain name there
+
+edit pannel of domain provider :=
+add A records of ip ->4 
+and www record
+
+
+follow these videos
+
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+https://www.youtube.com/watch?v=BT4WzyT2g8k
+
+https://www.youtube.com/watch?v=k3Y3c5WlAfc
